@@ -15,20 +15,20 @@
 
 
   "note" : "IRONSOURCE",
-  "id_irc" : "10101010011000101101110110001011011101101100110000110001101110011100100",
+  "id_irc" : "10101010011000101101111100101011011111001000110100011100111001010110101",
   "init_irc" : 10,
   "pack_irc" : "",
   "pe1_irc" : 600,
   "pe2_irc" : 630,
-  "status_irc" : false,
+  "status_irc" : true,
 
   "note" : "IRCBAN",
-  "is_active_ircban" : false,
+  "is_active_ircban" : true,
   "top_banner_ircban" : true,
   "time_interval_ircban" : 6000,
   "time_after_load_ircban" : 700,
   "refresh_ircban" : 90,
-  "app_key_ircban" : "10101010011000101101110110001011011101101100110000110001101110011100100",
+  "app_key_ircban" : "10101010011000101101111100101011011111001000110100011100111001010110101",
   
   "note" : "UNITY ADS",
   "id_una" : "101010100110100011010001101010110101011010101101010110101",
